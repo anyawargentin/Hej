@@ -6641,4 +6641,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   .hidden-print {
     display: none !important; } }
 
+.center-line {
+  border: 1px solid #D3D3D3; }
+
 /*# sourceMappingURL=main.css.map */
